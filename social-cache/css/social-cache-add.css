@@ -1,0 +1,14 @@
+#social-cache-message-url {
+	padding: 3px 8px;
+	font-size: 1.7em;
+	line-height: 100%;
+	width: 80%;
+	outline: none;
+}
+
+/* hide fields */
+#titlediv,
+#postdivrich,
+#normal-sortables {
+	display:none;
+}
